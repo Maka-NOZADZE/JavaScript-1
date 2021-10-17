@@ -1,0 +1,43 @@
+.box-1 {
+  margin: 10px 0 10px 10px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+
+  margin-bottom: 10px;
+}
+img {
+  width: 500px;
+}
+.form {
+  margin-left: 10px;
+  width: 1200px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+h3 {
+  color: blue;
+}
+.label {
+  color: blue;
+}
+.input {
+  width: 100%;
+  margin-bottom: 7px;
+}
+.select {
+  width: 100%;
+}
+.box {
+  margin-bottom: 10px;
+}
+.comment {
+  height: 100px;
+}
+.btn {
+  background-color: rgb(90, 90, 107);
+}
